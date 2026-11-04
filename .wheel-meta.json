@@ -1,0 +1,22 @@
+{
+  "wheel_id": 757,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-103",
+  "project": "earthmoving-services-adelaide-timeline-2c7ba4c4ebb04253550bcea4",
+  "parent_t1_ref": "simplyearthworks-151",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide timeline",
+  "intended_url": "https://sitesau.github.io/simplyearthworks-103/",
+  "tier": "T2",
+  "writeback_nonce": "9f4f8912a19aff52",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-services-adelaide-signs-you-need-268f366ec58d71be65/",
+      "anchor": "more on earthmoving services adelaide signs you need",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
